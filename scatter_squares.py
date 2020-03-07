@@ -16,4 +16,5 @@ pyplot.ylabel("Square of Value", fontsize=14)
 pyplot.axis([0, 1100, 0, 1100000])
 pyplot.ticklabel_format(useOffset=False, style='plain')
 
-pyplot.savefig('squares_plot.png', bbox_inches='tight')
+pyplot.show()
+#pyplot.savefig('squares_plot.png', bbox_inches='tight')
