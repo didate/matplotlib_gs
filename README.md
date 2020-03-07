@@ -1,1 +1,1 @@
-# matplotlib_gs
+# Matplotlib Getting Started
