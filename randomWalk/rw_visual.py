@@ -6,7 +6,7 @@ from random_walk import RandomWalk
 # while True:
 
 # Make a random walk, and plot the points
-rw = RandomWalk(50000)
+rw = RandomWalk(1000)
 rw.fill_walk()
 # Set the size of the plotting window.
 pyplot.figure(figsize=(10, 6))
